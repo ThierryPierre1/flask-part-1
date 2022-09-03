@@ -4,3 +4,4 @@
 http://34.172.201.56
 
 # Azure
+# could not get the vm to connect
